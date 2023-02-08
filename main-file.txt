@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exercise Page</title>
+  </head>
+  <body>
+    <h1>The Benefits of Exercise</h1>
+    <p>Exercise is an essential part of a healthy lifestyle, providing numerous physical and mental benefits. Regular exercise can help improve overall health, increase energy levels, and boost mood and self-esteem.</p>
+    <h2>Physical Benefits of Exercise</h2>
+    <ul>
+      <li>Improving cardiovascular health</li>
+      <li>Strengthening muscles and bones</li>
+      <li>Increasing flexibility and balance</li>
+      <li>Managing weight and preventing obesity</li>
+      <li>Boosting immunity and reducing the risk of disease</li>
+    </ul>
+    <h2>Mental Benefits of Exercise</h2>
+    <ul>
+      <li>Reducing stress and anxiety</li>
+      <li>Improving mood and self-esteem</li>
+      <li>Sharpening focus and cognitive function</li>
+      <li>Improving sleep quality</li>
+      <li>Boosting creativity and promoting a positive outlook</li>
+    </ul>
+    <p>No matter your fitness level or goals, there is an exercise that is right for you. Whether it's a leisurely walk, a yoga class, or a high-intensity workout, the important thing is to find an activity that you enjoy and make it a regular part of your routine. So get up, get moving, and experience all the benefits that exercise has to offer!</p>
+  </body>
+</html>
